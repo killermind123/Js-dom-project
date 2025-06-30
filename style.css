@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+div{
+    margin:auto;
+    border: 1px solid black;
+    height: 100px;
+    width: 500px;
+}
+ul {
+    display: inline-block;
+}
+ul li{
+    display: inline-block;
+}
+
